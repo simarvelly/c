@@ -1,1 +1,1 @@
-Japneet
+print("japneet")
